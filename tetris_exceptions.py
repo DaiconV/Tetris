@@ -1,1 +1,2 @@
-#File will contain exceptions which can arise.
+class InvalidDimensionsError(Exception):
+    pass
